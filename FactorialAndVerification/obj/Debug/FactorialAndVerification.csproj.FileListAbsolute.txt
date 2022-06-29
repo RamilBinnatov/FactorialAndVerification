@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\bin\Debug\FactorialAndVerification.exe.config
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\bin\Debug\FactorialAndVerification.exe
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\bin\Debug\FactorialAndVerification.pdb
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\obj\Debug\FactorialAndVerification.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\obj\Debug\FactorialAndVerification.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\obj\Debug\FactorialAndVerification.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\obj\Debug\FactorialAndVerification.exe
+C:\Users\ASUS\Desktop\p130\c#\Factorial\FactorialAndVerification\FactorialAndVerification\obj\Debug\FactorialAndVerification.pdb
